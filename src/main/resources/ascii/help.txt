@@ -1,0 +1,38 @@
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                 _    _ ______ _      _____                                                                                   
+                                                                                | |  | |  ____| |    |  __ \                                                                                  
+                                                                                | |__| | |__  | |    | |__) |                                                                                 
+                                                                                |  __  |  __| | |    |  ___/                                                                                  
+                                                                                | |  | | |____| |____| |                                                                                      
+                                                                                |_|  |_|______|______|_|                                                                                      
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                     1 - Appuyez sur votre touche 'Entrer' pour augmenter votre score et votre argent.                                                        
+                                                                                                                                                                                              
+                                                     2 - Écrire 'shop' pour ouvrir le shop.                                                                                                   
+                                                                                                                                                                                              
+                                                     3 - Écrire 'exit' afin de fermer les onglets (y compris celui ci!) ou fermer le jeu.                                                     
+                                                                                                                                                                                              
+                                                     4 - Écrire 'succes' afin d'ouvrir la liste de succès.                                                                                    
+                                                                                                                                                                                              
+                                                     5 - Écrire 'restart' pour redémarrer la partie.                                                                                          
+                                                                                                                                                                                              
+                                                     6 - Écrire 'save' pour sauvegarder la partie.                                                                                            
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+                                                                                                                                                                                              
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
